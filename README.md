@@ -132,10 +132,18 @@
 <br/>
 <br/>
 
+
 ## 🚀 Projetos Relevantes
 
-- **[Site de Vendas de Peças de Computador](https://github.com/ViniciusGraf/Site-CyberCore-SENAI-.git)**  
-  Projeto desenvolvido durante o curso técnico no SENAI, integrando Frontend, Backend e banco de dados.
+### 💻 [Site de Vendas de Peças de Computador](https://github.com/ViniciusGraf/Site-CyberCore-SENAI-.git)
+> Projeto desenvolvido em parceria com [Gustavo Virges](https://github.com/GustavoVirges) durante o curso técnico no **SENAI**, integrando **Frontend**, **Backend** e **banco de dados**.  
+
+**Tecnologias utilizadas:**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
 
 
 
