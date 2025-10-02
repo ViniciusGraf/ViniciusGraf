@@ -134,7 +134,7 @@
 
 ## 🚀 Projetos Relevantes
 
-- **[Site de Vendas de Peças de Computador]([(https://github.com/ViniciusGraf/Site-CyberCore-SENAI-.git)])**  
+- **[Site de Vendas de Peças de Computador]([https://github.com/ViniciusGraf/Site-CyberCore-SENAI-.git])**  
   Projeto desenvolvido durante o curso técnico no SENAI, integrando Frontend, Backend e banco de dados.
 
 
