@@ -30,6 +30,15 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
 <!-- <img 
     align="left" 
     alt="TypeScript"
@@ -118,21 +127,14 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 /> -->
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+
 
 <br/>
 <br/>
 
 ## 🚀 Projetos Relevantes
 
-- **[Site de Vendas de Peças de Computador]([link-do-repositorio](https://github.com/ViniciusGraf/Site-CyberCore-SENAI-.git))**  
+- **[Site de Vendas de Peças de Computador]([(https://github.com/ViniciusGraf/Site-CyberCore-SENAI-.git)])**  
   Projeto desenvolvido durante o curso técnico no SENAI, integrando Frontend, Backend e banco de dados.
 
 
